@@ -9,11 +9,20 @@ git init
 git add
 ```
 ## Фиксация измений.
+```sh
 git commit -m
+```
 
 ## Просмотр историю коммитов. 
+```sh
 git log 
+```
 
+##
+```sh
 git log --oneline
-
+```
+## Переключение между коммитами
+```sh
 git checkout
+```
