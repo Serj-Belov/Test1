@@ -11,6 +11,7 @@ git add
 ## Фиксация измений.
 git commit -m
 
+## Просмотр историю коммитов. 
 git log 
 
 git log --oneline
