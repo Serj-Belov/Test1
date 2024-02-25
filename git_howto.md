@@ -6,11 +6,11 @@ git init
 ```
 ## Сохранение текущего состояния проекта в истории коммитов.
 ```sh
-git add
+git add <filename>
 ```
 ## Фиксация измений.
 ```sh
-git commit -m
+git commit -m "Messege text"
 ```
 
 ## Просмотр историю коммитов. 
@@ -18,7 +18,7 @@ git commit -m
 git log 
 ```
 
-##
+## Вывод на экран историю всех коммитов в одной строке
 ```sh
 git log --oneline
 ```
