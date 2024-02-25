@@ -8,7 +8,7 @@ git init
 ```sh
 git add
 ```
-
+## Фиксация измений.
 git commit -m
 
 git log 
