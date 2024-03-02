@@ -31,3 +31,10 @@ git checkout
 ```sh
 git status
 ```
+
+## Отображение всех веток
+```sh
+git branch
+```
+
+
