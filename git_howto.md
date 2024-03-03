@@ -45,11 +45,14 @@ git branch <branch_name >
 ```sh
 git branch -d <branch_name >
 ```
+<<<<<<< HEAD
 
 ## Комадна на слияние веток
 ```sh
 git marge <branch_name которую будем вливать в текущую ветку>
 ```
+
+
 
 
 
