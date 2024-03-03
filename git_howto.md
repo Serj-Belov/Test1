@@ -43,7 +43,7 @@ git branch <branch_name >
 
 ## Удаление ветки
 ```sh
-git branch  <branch_name >
+git branch -d <branch_name >
 ```
 
 
