@@ -37,6 +37,11 @@ git status
 git branch
 ```
 
+## Создание новой ветки
+```sh
+git branch <branch_name >
+```
+
 ## Комадна на слияние веток
 ```sh
 git marge <branch_name которую будем вливать в текущую ветку>
