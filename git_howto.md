@@ -22,7 +22,7 @@ git log
 ```sh
 git log --oneline
 ```
-## Переключение между коммитами
+## Переключение между коммитами 
 ```sh
 git checkout <branch_name >
 ```
@@ -40,6 +40,12 @@ git branch
 ```sh
 git branch <branch_name >
 ```
+
+## Удаление ветки
+```sh
+git branch -d <branch_name >
+```
+
 
 
 
