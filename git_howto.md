@@ -42,6 +42,11 @@ git branch
 git branch <branch_name >
 ```
 
+## Удаление ветки
+```sh
+git branch -d <branch_name> 
+```
+
 ## Комадна на слияние веток
 ```sh
 git marge <branch_name которую будем вливать в текущую ветку>
