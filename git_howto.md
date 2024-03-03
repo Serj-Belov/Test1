@@ -24,7 +24,7 @@ git log --oneline
 ```
 ## Переключение между коммитами
 ```sh
-git checkout <имя_ветки >
+git checkout <branch_name >
 ```
 
 ## Состояние рабочего каталога и раздела проиндексированных файлов.
@@ -38,7 +38,7 @@ git branch
 ```
 ## Создание новой ветки
 ```sh
-git branch <имя ветки >
+git branch <branch_name >
 ```
 
 
